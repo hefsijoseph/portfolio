@@ -1,14 +1,13 @@
+// home 
 const Home = () => {
   return (
     <article className="home grid md:grid-cols-2 justify-items-center align-items-center">
       <div className="wrapper">
-      <img src="asset/img1.jpg" alt="computer programming" className="w-3/4 rounded-md" />
-      <div className="wrapper-child w-3/5 h-64">
-        <p>Lorem ipsum dolor sit.</p>
-      </div>
+      <img src="asset/img1.jpg" alt="computer programming" className="w-3/4 rounded-md ml-7 img1" />
+      <div className="appear-on-top-image w-3/4 rounded-md ml-7"></div>
       </div>
      <div className="mt-8">
-        <h2 className="text-2xl mb-3 font-bold">Introduction</h2>
+        <h2 className="text-2xl mb-3 font-bold text-[#83b38f] ml-7">Introduction</h2>
         <p className="text-pretty">
           Creative Web Developer Building Impactful Experiences, Passionate
           about computer programming, and using knowledge and skills to provide
@@ -23,3 +22,4 @@ const Home = () => {
 };
 
 export default Home;
+//end home

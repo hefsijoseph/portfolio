@@ -1,12 +1,16 @@
-import github from "./asset/github.svg";
-import linkedin from "./asset/linkedin.svg";
-import whatsap from "./asset/whatsapp.svg";
-import mail from "./asset/mail.svg";
+// useful icons
+import github from "../asset/github.svg";
+import linkedin from "../asset/linkedin.svg";
+import whatsap from "../asset/whatsapp.svg";
+import mail from "../asset/mail.svg";
+// end
 
+// footer
 const Footer = () => {
      
   return (
-    <article className="footer mt-36 flex  flex-col  justify-center  items-center p-5 ">
+    // social icons 
+    <article className="footer  mt-10 md:mt-36 flex  flex-col  justify-center  items-center p-5 ">
       <p className=" pb-3 text-xl font-extrabold">Social Networks</p>
      <div className="flex">
     <a href="https://github.com/hefsijoseph/">
@@ -23,7 +27,10 @@ const Footer = () => {
        </a>
         </div>
      </article>
+     // end social icons
   );
 };
 
 export default Footer;
+
+//end footer
