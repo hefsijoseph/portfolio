@@ -2,14 +2,14 @@
 
 ## This portfolio highlights my work and skills.
 
-### My Work 
+ ### My Work 
 
 - Dry Cleaner Operations Management System (DCO-MS)
 * Amatics Technologies Website
 + Explore awesome Tradition in Tanzania
 + Hefsi's Portfolio
 + Hefsi's Blog
-
+  
 1. My Technical Skills
    - Frontend
      - HTML & HTML5, CSS & CSS3, Javascript, jQuery, SASS, Gulpjs, Reactjs,Vuejs
