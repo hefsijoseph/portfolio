@@ -28,7 +28,7 @@
    - Web Server
      - Apache2
 
-#### Code Snippet :collision:
+#### Code Snippet :writing_hand:
 
 
 ![Image](https://github.com/user-attachments/assets/defcfe5d-d847-4cb2-b8f6-1b030da2dbbe)
