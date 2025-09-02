@@ -1,8 +1,8 @@
-# Hefsi's Portfolio
+# :open_file_folder: Hefsi's Portfolio
 
-## This portfolio highlights my work and skills.
+## :pushpin: This portfolio highlights my work and skills.
 
- ### My Work 
+ ### My Work :briefcase:
 
 - Dry Cleaner Operations Management System (DCO-MS)
 * Amatics Technologies Website
@@ -10,7 +10,7 @@
 + Hefsi's Portfolio
 + Hefsi's Blog
   
-1. My Technical Skills
+1. My Technical Skills :computer:
    - Frontend
      - HTML & HTML5, CSS & CSS3, Javascript, jQuery, SASS, Gulpjs, Reactjs,Vuejs
    - CSS Framework
