@@ -31,6 +31,20 @@ const WorkPage = () => {
             View on GitHub
           </a>
         </div>
+        <div className=" flex justify-between items-center work px-7 py-5 mb-2">
+          <img src="favicon.ico" alt="image" />
+          <h2 className="md:text-xl font-bold text-[#83b38f]  ">
+            H_CSS Library
+          </h2>
+          <a
+            href="https://github.com/hefsijoseph/"
+            target="_blank"
+            rel="noreferrer"
+            className="text-[#83b38f] pl-2 font-bold"
+          >
+            View on GitHub
+          </a>
+        </div>
         <div className=" flex  justify-between items-center  work  px-7 py-5 mb-2">
           <img src="favicon.ico" alt="image" />
           <h2 className="md:text-xl font-bold text-[#83b38f]  ">
