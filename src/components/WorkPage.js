@@ -4,7 +4,7 @@ const WorkPage = () => {
     <section>
       <div className="">
         <div className="flex justify-between items-center work px-7 py-5 mb-2">
-          <img src="favicon.ico" alt="dco-ms image" />
+          <img src="dry.ico" alt="dco-ms" />
           <h2 className="md:text-xl font-bold text-[#83b38f]">
             Dry Cleaner Operations Management System (DCO-MS)
           </h2>
@@ -18,7 +18,7 @@ const WorkPage = () => {
           </a>
         </div>
         <div className="flex justify-between items-center work px-7 py-5 mb-2">
-          <img src="favicon.ico" alt="amatics" />
+          <img src="amatics.ico" alt="amatics" />
           <h2 className="md:text-xl  font-bold text-[#83b38f]  ">
             Amatics Technologies website
           </h2>
@@ -32,7 +32,7 @@ const WorkPage = () => {
           </a>
         </div>
         <div className=" flex justify-between items-center work px-7 py-5 mb-2">
-          <img src="favicon.ico" alt="h_css library" />
+          <img src="sass.ico" alt="h_css library" />
           <h2 className="md:text-xl font-bold text-[#83b38f]  ">
             H_CSS Library
           </h2>
@@ -46,7 +46,7 @@ const WorkPage = () => {
           </a>
         </div>
         <div className=" flex  justify-between items-center  work  px-7 py-5 mb-2">
-          <img src="favicon.ico" alt="Hefsi portfolio" />
+          <img src="portfolio.ico" alt="Hefsi portfolio" />
           <h2 className="md:text-xl font-bold text-[#83b38f]  ">
             Hefsi Portfolio
           </h2>
@@ -60,7 +60,7 @@ const WorkPage = () => {
           </a>
         </div>
         <div className="flex justify-between items-center work px-7 py-5 mb-2">
-          <img src="favicon.ico" alt="tradition" />
+          <img src="tradition.ico" alt="tradition" />
           <h2 className="md:text-xl font-bold text-[#83b38f]">Explore awesome Tradition in Tanzania</h2>
           <a
             href="https://github.com/hefsijoseph/"
@@ -72,7 +72,7 @@ const WorkPage = () => {
           </a>
         </div>
         <div className=" flex justify-between items-center work px-7 py-5 mb-2">
-          <img src="favicon.ico" alt="blog" />
+          <img src="blog.ico" alt="blog" />
           <h2 className="md:text-xl font-bold text-[#83b38f]  ">
             Hefsi Blog
           </h2>
