@@ -85,6 +85,20 @@ const WorkPage = () => {
             View on GitHub
           </a>
         </div>
+        <div className=" flex justify-between items-center work px-7 py-5 mb-2">
+          <img src="blog.ico" alt="blog" />
+          <h2 className="md:text-xl font-bold text-[#83b38f]  ">
+           The Garden Friend
+          </h2>
+          <a
+            href="https://github.com/hefsijoseph/"
+            target="_blank"
+            rel="noreferrer"
+            className="text-[#83b38f] pl-2 font-bold"
+          >
+            View on GitHub
+          </a>
+        </div>
       </div>
     </section>
   );
